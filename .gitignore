@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# iPython
+.ipynb_checkpoints
+
+# memo
+memo.txt
+
+# Session 1
+session-0/
+session-1/George_W_Bush/
+session-1/George_W_Bush_2/
+session-1/birds/
+
+# Session 2
+session-2/img_align_celeba/
+
+# Session 3
+session-3/MNIST_data
+session-3/png_manifold
+session-3/png_reconstruction
+session-3/gtzan_music_speech/
+checkpoint
+*.ckpt*
+
+# Session 4
+session-4/inception/
+*.tfmodel
+*.zip
+*.tgz
+
+# Session 5
+session-5/gif/
+session-5/imgs/
+session-5/img_align_celeba/
+session-5/txt
